@@ -1,0 +1,8 @@
+sudo apt-get update 
+sudo apt-get install git
+git --version
+git config --global user.name "James Bushnell" 
+git config --global user.email "jamesbushnellmsca@gmail.com"
+git config -l
+
+
